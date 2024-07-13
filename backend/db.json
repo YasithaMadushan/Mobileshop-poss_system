@@ -1,0 +1,36 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "name": "Iphone 6s",
+        "price": 15990.00,
+        "quantity": 1,
+        "description": "description1",
+        "image": "https://cdn.pixabay.com/photo/2015/10/17/19/49/iphone-6s-993199_1280.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Nokia 101",
+        "price": 8500.00,
+        "quantity": 10,
+        "description": "description2",
+        "image": "https://cdn.pixabay.com/photo/2016/07/07/15/53/mobile-1502601_1280.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Phone Charger",
+        "price": 999.00,
+        "quantity": 15,
+        "description": "description3",
+        "image": "https://media.istockphoto.com/id/484719630/photo/adapter-charger-with-usb-cable-isolate-on-white.jpg?s=1024x1024&w=is&k=20&c=yceMwRBVZyliF5YxsQqoWZmGiLn2KVUxghe95Nrv4j0="
+    },
+    {
+        "id": "4",
+        "name": "Battery",
+        "price": 1570.00,
+        "quantity": 100,
+        "description": "Lithiyam battery",
+        "image": "https://cdn.pixabay.com/photo/2020/03/22/16/18/battery-4957675_960_720.jpg"
+    }
+    ]
+}
